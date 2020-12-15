@@ -1,0 +1,3 @@
+syntax error
+indentation error
+https://thonny.org/
