@@ -2,6 +2,14 @@ syntax error
 indentation error
 index erro: list index out of range. invalid number
 
+
+random.choice(list)
+random.shuffle(list)
+
+
+if 'a' in LIST:
+
+https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%203&url=worlds%2Ftutorial_en%2Fhurdle3.json
 https://thonny.org/
 https://ascii.co.uk/art
 askpython.com
