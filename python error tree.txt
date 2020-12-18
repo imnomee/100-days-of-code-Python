@@ -6,6 +6,15 @@ index erro: list index out of range. invalid number
 random.choice(list)
 random.shuffle(list)
 
+Nice trick to check and compare variable types
+# check if x is a regular string
+type(x) == type('')
+# check if x is an integer
+type(x) == type(1)
+# check if x is a NoneType
+type(x) == type(None)
+
+
 
 if 'a' in LIST:
 
