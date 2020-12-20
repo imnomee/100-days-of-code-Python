@@ -18,6 +18,9 @@ type(x) == type(None)
 
 if 'a' in LIST:
 
+randint is inclusive of both start and end
+range is inclusive of start and exclusive of end
+
 https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%203&url=worlds%2Ftutorial_en%2Fhurdle3.json
 https://thonny.org/
 https://ascii.co.uk/art
