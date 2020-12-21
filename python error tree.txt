@@ -27,3 +27,8 @@ https://ascii.co.uk/art
 askpython.com
 
 patorjk.com/software/taag
+pypi.org
+
+
+python -m pip install -U prettytable
+python -m pip install --upgrade pip
