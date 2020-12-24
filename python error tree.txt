@@ -28,6 +28,9 @@ askpython.com
 
 patorjk.com/software/taag
 pypi.org
+cs111.wellesley.edu/labs/lab01/colors
+
+python -m pip install colorgram
 
 
 python -m pip install -U prettytable
