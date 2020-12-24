@@ -15,6 +15,8 @@ for color in colors:
 
 t = turtle.Turtle()
 t.penup()
+t.hideturtle()
+t.speed('fastest')
 t.setheading(225)
 t.forward(300)
 t.setheading(0)
